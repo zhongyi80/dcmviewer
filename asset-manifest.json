@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/dcmviewer/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/dcmviewer/static/js/main.89b3d849.chunk.js",
-    "main.js.map": "/dcmviewer/static/js/main.89b3d849.chunk.js.map",
+    "main.js": "/dcmviewer/static/js/main.b4e242b9.chunk.js",
+    "main.js.map": "/dcmviewer/static/js/main.b4e242b9.chunk.js.map",
     "runtime-main.js": "/dcmviewer/static/js/runtime-main.6ca1334e.js",
     "runtime-main.js.map": "/dcmviewer/static/js/runtime-main.6ca1334e.js.map",
-    "static/js/2.ade4e732.chunk.js": "/dcmviewer/static/js/2.ade4e732.chunk.js",
-    "static/js/2.ade4e732.chunk.js.map": "/dcmviewer/static/js/2.ade4e732.chunk.js.map",
+    "static/js/2.08f668cb.chunk.js": "/dcmviewer/static/js/2.08f668cb.chunk.js",
+    "static/js/2.08f668cb.chunk.js.map": "/dcmviewer/static/js/2.08f668cb.chunk.js.map",
     "static/js/3.42098830.chunk.js": "/dcmviewer/static/js/3.42098830.chunk.js",
     "static/js/3.42098830.chunk.js.map": "/dcmviewer/static/js/3.42098830.chunk.js.map",
     "index.html": "/dcmviewer/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/dcmviewer/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.ade4e732.chunk.js.LICENSE.txt": "/dcmviewer/static/js/2.ade4e732.chunk.js.LICENSE.txt"
+    "static/js/2.08f668cb.chunk.js.LICENSE.txt": "/dcmviewer/static/js/2.08f668cb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6ca1334e.js",
-    "static/js/2.ade4e732.chunk.js",
+    "static/js/2.08f668cb.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.89b3d849.chunk.js"
+    "static/js/main.b4e242b9.chunk.js"
   ]
 }
